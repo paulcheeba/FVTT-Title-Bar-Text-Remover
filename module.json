@@ -1,0 +1,12 @@
+{
+	"name": "title-bar-text-remover",
+	"title": "Title Bar Text Remover",
+	"description": "Removes the text of actor sheet title bar buttons, and instead shows their names on hover.",
+	"version": "1.0.0",
+	"minimumCoreVersion" : "0.8.8",
+	"compatibleCoreVersion" : "0.8.8",
+	"author": "Tural",
+	"scripts": [
+		"script.js"
+	]
+}

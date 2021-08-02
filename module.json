@@ -8,5 +8,8 @@
 	"author": "Tural",
 	"scripts": [
 		"script.js"
+	],
+	"styles": [
+		"styles.css"
 	]
 }

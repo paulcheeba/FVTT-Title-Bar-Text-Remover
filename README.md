@@ -22,4 +22,4 @@ https://github.com/paulcheeba/FVTT-Title-Bar-Text-Remover/releases/latest/downlo
 
 ![image](https://user-images.githubusercontent.com/75949480/127799769-f6714c39-e482-4b02-ba69-fa71399fc863.png)
 
-###Credit goes to [Tural](https://github.com/TheTural) for the initial module creation, [u/Mejari](https://www.reddit.com/user/Mejari/) for help with the CSS and [u/Paulcheeba](https://www.reddit.com/user/paulcheeba/) for original concept and contribution.
+### Credit goes to [Tural](https://github.com/TheTural) for the initial module creation, [u/Mejari](https://www.reddit.com/user/Mejari/) for help with the CSS and [u/Paulcheeba](https://www.reddit.com/user/paulcheeba/) for original concept and contribution.
